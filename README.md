@@ -1,5 +1,5 @@
-# Churn-Modelling-using-neural-network
-## Artificial Neural Networks, Deep Learning Churn Modeling
+### Churn-Modelling-using-neural-network
+
 Business Problem: Dataset of a bank with 10,000 customers measured lots of attributes of the customer and is seeing unusual churn rates at a high rate. Want to understand what the problem is, address the problem, and give them insights. 10,000 is a sample, millions of customer across Europe. Took a sample of 10,000 measured six months ago lots of factors (name, credit score, grography, age, tenure, balance, numOfProducts, credit card, active member, estimated salary, exited, etc.). For these 10,000 randomly selected customers and track which stayed or left.
 
 **Goal**: create a geographic segmentation model to tell which of the customers are at highest risk of leaving.
